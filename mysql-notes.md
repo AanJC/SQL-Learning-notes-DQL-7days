@@ -16,7 +16,9 @@
 
 常见的数据库管理系统
 		mysql oracle db2【IBM】 sqlserver
-# 管理员身份运行cmd
+# 数据库的启动和关闭、登录和退出
+管理员身份运行cmd
+
         # 启动数据库：
           net start mysql
         # 关闭数据库：
